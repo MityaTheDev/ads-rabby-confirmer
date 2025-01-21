@@ -1,0 +1,6 @@
+{
+  "2captcha": {
+    "API_KEY": "API_KEY",
+    "MIN_BALANCE": 5
+  }
+}
