@@ -3,4 +3,4 @@ package-lock.json
 test.js
 Confirm.bat
 README.md
-configs/ads.json
+/configs/ads.json
