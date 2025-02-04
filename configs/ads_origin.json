@@ -1,0 +1,16 @@
+{
+  "API_ENDPOINT": "",
+  "API_PORT": "",
+  "API_KEY": "",
+
+  "start_request": {
+    "open_tabs": 1,
+    "ip_tab": 0,
+    "new_first_tab": 0,
+    "launch_args": [],
+    "headless": 0,
+    "disable_password_filling": 1,
+    "clear_cache_after_closing": 0,
+    "enable_password_saving": 0
+  }
+}
